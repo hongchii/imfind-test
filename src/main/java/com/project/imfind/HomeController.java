@@ -1,4 +1,4 @@
-package imfind.project.com;
+package com.project.imfind;
 
 import java.text.DateFormat;
 import java.util.Date;
